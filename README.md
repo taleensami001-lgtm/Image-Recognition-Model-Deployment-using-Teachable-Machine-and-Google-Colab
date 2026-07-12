@@ -35,11 +35,16 @@ Once training is complete, we move to the Preview section to test the model's ac
 
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/9357060dcc027cbbe2f71513ba8ed43c1d513983/Screenshot%202026-07-12%20153033.png)
 
+
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/9357060dcc027cbbe2f71513ba8ed43c1d513983/Screenshot%202026-07-12%20153050.png)
 
-![img alt]()
 
-![img alt]()
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/2c1c7084a4d2212a053536d1918ff09ebf40a43e/Screenshot%202026-07-12%20153554.png)
+
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/2c1c7084a4d2212a053536d1918ff09ebf40a43e/Screenshot%202026-07-12%20153626.png)
+
+
 ## **- تصدير النموذج (Exporting the Model)**
 
 لاستخدام هذا النموذج في بيئة برمجية خارجية، يتم النقر على زر Export Model (تصدير النموذج). من النافذة المنبثقة، يتم اختيار تبويب Tensorflow ثم تحديد نوع التحويل ليكون Keras. بعد ذلك، يتم النقر على Download my model لتحميل ملفات النموذج (keras_model.h5 و labels.txt) إلى جهاز الكمبيوتر. كما توفر المنصة كود Python جاهزاً لاستخدامه في تشغيل النموذج.
