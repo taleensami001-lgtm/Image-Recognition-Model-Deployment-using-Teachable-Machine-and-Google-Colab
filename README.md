@@ -13,7 +13,10 @@ The first step begins by opening the Google Teachable Machine platform and selec
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/2a95de519c5e70aadd9f9abfb7e209d70b7e0a4b/Screenshot%202026-07-12%20152535.png)
 
 2-
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152700.png)
 
+3-
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152754.png)
 
 ## **- تدريب النموذج (Training the Model)**
 
