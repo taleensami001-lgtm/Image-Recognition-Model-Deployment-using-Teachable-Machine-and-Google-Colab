@@ -64,4 +64,15 @@ The final step involves transitioning to the Google Colab environment. A new Not
 
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20164535.png)
 
-![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20164535.png)
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/189657d13cb04bacef74d9a34ea14ebfecd0f437/Screenshot%202026-07-12%20165533.png)
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/189657d13cb04bacef74d9a34ea14ebfecd0f437/Screenshot%202026-07-12%20165557.png)
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/189657d13cb04bacef74d9a34ea14ebfecd0f437/Screenshot%202026-07-12%20165547.png)
+
+
+## **The test image**
+![img alt]()
+
+## **The output**
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/189657d13cb04bacef74d9a34ea14ebfecd0f437/Screenshot%202026-07-12%20165749.png)
