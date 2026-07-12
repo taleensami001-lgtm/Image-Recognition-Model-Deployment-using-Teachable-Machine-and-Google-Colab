@@ -9,7 +9,7 @@
 The first step begins by opening the Google Teachable Machine platform and selecting an Image Project. Next, the categories (Classes) that the model will be trained on are defined and named. In this project, three classes were created for different types of flowers: Lily, Sunflower, and Tulip. After naming the classes, a set of representative images for each flower is uploaded from the local computer to serve as training data.
 
 1- 
-![img alt]()
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/2a95de519c5e70aadd9f9abfb7e209d70b7e0a4b/Screenshot%202026-07-12%20152535.png)
 
 2-
 
