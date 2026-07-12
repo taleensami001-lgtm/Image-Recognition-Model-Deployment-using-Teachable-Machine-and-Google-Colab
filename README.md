@@ -51,9 +51,17 @@ Once training is complete, we move to the Preview section to test the model's ac
 
 To utilize this model in an external programming environment, the Export Model button is clicked. From the pop-up window, the Tensorflow tab is selected, and the conversion type is set to Keras. After that, clicking Download my model saves the model files (keras_model.h5 and labels.txt) to the local computer. The platform also provides a ready-to-use Python code snippet for running the model.
 
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20153800.png)
+
 ## **- تطبيق النموذج في بيئة Google Colab (Deploying the Model in Google Colab)**
 
 الخطوة الأخيرة تتمثل في الانتقال إلى بيئة Google Colab. يتم إنشاء مستند تفاعلي جديد (Notebook) ونسخ كود Python الذي تم الحصول عليه في الخطوة السابقة ولصقه في خلية الأكواد. من خلال لوحة الملفات الجانبية في Colab، يتم رفع ملف النموذج (keras_model.h5) وملف التسميات (labels.txt) وصورة اختبارية (مثل images (2).jpeg). يتم تعديل مسار الصورة في الكود ليتطابق مع اسم الصورة المرفوعة، ثم يتم تشغيل الخلية لتنفيذ الكود والحصول على التنبؤ النهائي للنموذج برمجياً.
 
 
 The final step involves transitioning to the Google Colab environment. A new Notebook is created, and the Python code snippet obtained in the previous step is pasted into a code cell. Using the file explorer panel on the left side of Colab, the downloaded model file (keras_model.h5), the labels file (labels.txt), and a test image (e.g., images (2).jpeg) are uploaded. The image path within the code is then modified to match the uploaded test image's name. Finally, the cell is executed to run the script and generate the model's final prediction programmatically.
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20154359.png)
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20164535.png)
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/507c828d1d198fa7a707b417d946440032c5727a/Screenshot%202026-07-12%20164535.png)
