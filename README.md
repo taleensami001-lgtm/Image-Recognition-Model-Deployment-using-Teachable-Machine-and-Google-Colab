@@ -1,4 +1,4 @@
-# **Building an Image Recognition Model**       **بناء نموذج للتعرف على الصور
+# **Building an Image Recognition Model  بناء نموذج للتعرف على الصور**
  
 
 
