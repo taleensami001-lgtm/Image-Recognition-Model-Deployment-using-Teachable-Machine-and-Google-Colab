@@ -15,8 +15,6 @@ The first step begins by opening the Google Teachable Machine platform and selec
 2-
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152700.png)
 
-3-
-![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152754.png)
 
 ## **- تدريب النموذج (Training the Model)**
 
@@ -24,7 +22,9 @@ The first step begins by opening the Google Teachable Machine platform and selec
 
 Once the images are populated into each class, the next step is to click the Train Model button located in the center panel. During this phase, the platform processes the uploaded data and builds a neural network capable of distinguishing between the three flower types based on the visual features of each class.
 
-![img alt]()
+3-
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152754.png)
+
 
 ## **- اختبار وتقييم النموذج (Testing and Evaluating the Model)**
 
