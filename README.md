@@ -71,7 +71,7 @@ The final step involves transitioning to the Google Colab environment. A new Not
 
 
 ## **The test image**
-![img alt]()
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/ab3484d2b680874c7fbc206a3ef3e917f96aade6/images%20(2).jpeg)
 
 ## **The output**
 
