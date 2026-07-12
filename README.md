@@ -22,7 +22,7 @@ The first step begins by opening the Google Teachable Machine platform and selec
 
 Once the images are populated into each class, the next step is to click the Train Model button located in the center panel. During this phase, the platform processes the uploaded data and builds a neural network capable of distinguishing between the three flower types based on the visual features of each class.
 
-3-
+
 ![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/adb9e17548048c66296dcc666cf6d6a9bd599731/Screenshot%202026-07-12%20152754.png)
 
 
@@ -32,6 +32,14 @@ Once the images are populated into each class, the next step is to click the Tra
 
 Once training is complete, we move to the Preview section to test the model's accuracy. New test images (which were not part of the training set) of the three flowers are uploaded. As shown in the results, the model demonstrated high efficiency, recognizing a "Sunflower" image with 100% confidence, a "Tulip" with 100% confidence, and a "Lily" with 99% confidence.
 
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/9357060dcc027cbbe2f71513ba8ed43c1d513983/Screenshot%202026-07-12%20153033.png)
+
+![img alt](https://github.com/taleensami001-lgtm/Image-Recognition-Model-Deployment-using-Teachable-Machine-and-Google-Colab/blob/9357060dcc027cbbe2f71513ba8ed43c1d513983/Screenshot%202026-07-12%20153050.png)
+
+![img alt]()
+
+![img alt]()
 ## **- تصدير النموذج (Exporting the Model)**
 
 لاستخدام هذا النموذج في بيئة برمجية خارجية، يتم النقر على زر Export Model (تصدير النموذج). من النافذة المنبثقة، يتم اختيار تبويب Tensorflow ثم تحديد نوع التحويل ليكون Keras. بعد ذلك، يتم النقر على Download my model لتحميل ملفات النموذج (keras_model.h5 و labels.txt) إلى جهاز الكمبيوتر. كما توفر المنصة كود Python جاهزاً لاستخدامه في تشغيل النموذج.
